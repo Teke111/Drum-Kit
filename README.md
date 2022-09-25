@@ -18,5 +18,4 @@ I made a drum kit using HTML CSS and JAVASCRIPT
 - Semantic HTML5 markup
 - CSS custom properties
 - Javascript
--jQuery
 
