@@ -8,8 +8,8 @@ I made a drum kit using HTML CSS and JAVASCRIPT
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Teke111/Drum-Kit]
+- Live Site URL: [https://teke111.github.io/Drum-Kit/]
 
 ## My process
 
